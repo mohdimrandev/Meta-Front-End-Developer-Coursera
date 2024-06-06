@@ -1,0 +1,32 @@
+#photo{
+    border: 2px solid blue;
+
+}
+h1{
+    color: blue;
+}
+
+h2{
+    color: grey;
+}
+
+div{
+    margin: 4px; 
+}
+
+a:hover{
+    color: orangered;
+}
+
+.child{
+    display: block;
+    margin: auto;
+}
+
+p.imgname{
+    text-align: center;
+    margin: auto;
+    margin-top: 5px;
+    width: 30%;
+    border: solid orangered;
+}
