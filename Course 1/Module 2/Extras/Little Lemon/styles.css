@@ -1,0 +1,18 @@
+h2{
+    color: blue;
+}
+
+#header2{
+    color: Orange;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid black;
+    border-width: 2px;
+    padding: 4px;
+      
+}
+
+a:hover{
+    color : yellow;
+}
